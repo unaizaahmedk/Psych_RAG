@@ -1,4 +1,4 @@
-# Psych RAG: A Psychology Retrieval-Augmented Generation (RAG) Chatbot
+# PsychChatMistral RAG: A Psychology Retrieval-Augmented Generation (RAG) Chatbot
 
 ## Overview
 Psych RAG is a specialized chatbot designed to assist users with psychology-related questions using a Retrieval-Augmented Generation (RAG) approach. The project employs Hugging Face for NLP models, Pinecone for efficient document retrieval, Gradio for an interactive user interface, FastAPI for handling backend API requests, and LangChain to seamlessly integrate these components. 
