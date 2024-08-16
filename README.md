@@ -5,6 +5,9 @@ Psych RAG is a specialized chatbot designed to assist users with psychology-rela
 
 ![Screenshot 2024-08-16 184221](https://github.com/user-attachments/assets/757556bb-bb81-41fb-bc9e-17c734305346)
 
+![Screenshot 2024-08-16 185437](https://github.com/user-attachments/assets/4743699b-0b97-47d7-85f6-3229e66ee331)
+
+![Screenshot 2024-08-16 190318](https://github.com/user-attachments/assets/82ed14f7-1869-4868-9364-60a9580e6e0b)
 
 ## Model Used:
 mistralai/Mistral-Nemo-Instruct-2407
