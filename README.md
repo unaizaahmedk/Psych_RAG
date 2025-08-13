@@ -1,6 +1,8 @@
-# PsychChatMistral RAG: A Psychology-Focused RAG Chatbot
+# PsychChatMistral RAG: A Psychology-Focused RAG Chatbot  
 
-**A Capstone Project from the AI Bootcamp (NUST × AtomCamp), selected as one of the Top 5 projects.**
+**Capstone Project – AI Bootcamp (NUST × AtomCamp)**  
+*Selected among the Top 5 projects*  
+
 
 -----
 
